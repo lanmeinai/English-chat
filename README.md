@@ -31,8 +31,8 @@ Go to **[platform.deepseek.com](https://platform.deepseek.com)** â†’ register â†
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/english-chat.git
-cd english-chat
+git clone https://github.com/lanmeinai/English-chat.git
+cd English-chat
 
 # Install
 npm install
