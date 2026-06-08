@@ -131,4 +131,4 @@ The web version works on any browser. For native iOS, run `npx cap add ios` and 
 
 ## License
 
-MIT — feel free to use, modify, and share.
+GDUT — feel free to use, modify, and share.
